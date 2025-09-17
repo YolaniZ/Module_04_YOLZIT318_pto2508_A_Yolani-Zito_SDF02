@@ -46,3 +46,5 @@ This is your opportunity to apply everything you’ve learned about HTML. If you
 ### **Congrats on Submitting Your First HTML Project!**  
 
 You’ve just built your first **structured portfolio page** a fundamental skill for any developer! Every great coder starts by building simple yet functional projects like this. Keep experimenting, improving, and pushing your boundaries. **You Crushed it!**
+
+![alt text](image.png)
